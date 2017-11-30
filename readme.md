@@ -29,7 +29,7 @@ Now time for my actual methods:
 
 ## My Fabulous Figure
 
-![My Figure](figures/mean_pref_ori.svg)
+![My Figure](mean_pref_ori.svg)
 
 > This is what my supervisor said "..."
 
